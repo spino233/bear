@@ -1,0 +1,8 @@
+*.jpg
+*.jpeg
+
+bears/
+images/
+
+export.pkl
+.DS_Store
